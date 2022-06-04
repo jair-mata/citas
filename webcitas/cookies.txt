@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.be2.com.mx	TRUE	/	FALSE	1999999999	X-Source-Control	k06|Ypr9R|Ypr9R
+.www.be2.com.mx	TRUE	/	FALSE	1999999999	__cf_bm	kBEdtJFMMXqBP3jROcp__wMLr1W6nkhSJRTi4BXcf5g-1654324548-0-AQOML7iTaOPjxagxOUnRRF4RDqhbpQGU35FST93W3NVzeC3K3Y2WflMH6GiH0CuvIWaO5T0c8VKyrTtJEVwf5D301mvZMWf1581odQS51ayJ
+www.be2.com.mx	TRUE	/	FALSE	1999999999	SameSite	None
+
